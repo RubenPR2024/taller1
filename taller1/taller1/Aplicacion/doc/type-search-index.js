@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"persistencia","l":"ConexionBD"},{"p":"dominio","l":"Estado"},{"p":"dominio","l":"Incidencias"},{"p":"persistencia","l":"IncidenciasDAO"},{"p":"presentacion","l":"Interfaz"},{"p":"dominio","l":"Listas"},{"p":"aplicacion","l":"Logica"},{"p":"aplicacion","l":"Main"}];updateSearchResults();
